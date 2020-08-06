@@ -18,8 +18,8 @@ namespace _1
         }
     }
     class Shape {
-        private double a_width;
-        private double a_length;
+        double a_width;
+        double a_length;
         public Shape() {
             Width = Length = 0;
         }
